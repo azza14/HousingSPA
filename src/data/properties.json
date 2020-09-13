@@ -1,0 +1,49 @@
+[{
+    "Id": 1,
+    "SellRent":1,
+    "Name": "gray House",
+    "Type": "house",
+    "Price": 2000,
+     "Image":"prop-1"
+  },
+  {
+    "Id": 2,
+     "SellRent":1,
+    "Name": " white House",
+    "Type": "house",
+    "Price": 2000,
+      "Image":"prop-2"
+
+  },
+  {
+    "Id": 3,
+    "SellRent":1,
+    "Name": " 3gray House",
+    "Type": "house",
+    "Price": 2000,
+    "Image":"prop-3"
+  },
+  {
+    "Id": 4,
+    "SellRent":2,
+    "Name": "4 white House",
+    "Type": "house",
+    "Price": 2000,
+    "Image":"prop-4"
+
+  },
+  {
+    "Id": 5,
+    "SellRent":2,
+    "Name": "thrghnmkjee",
+    "Type": "house",
+    "Price": 2000,
+    "Image":"prop-5"
+  },
+  {
+    "Id": 6,
+    "Name": "thnvhjghjree ",
+    "Type": "house",
+    "Price": 2000
+  }
+]
